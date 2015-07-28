@@ -1,0 +1,30 @@
+{
+  "name": "octo-page",
+  "version": "1.0.0",
+  "description": "Simple html page using SASS npm module as dependency",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rcliao/octo-page.git"
+  },
+  "keywords": [
+    "HTML"
+  ],
+  "author": "Eric Liao <rcliao01@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rcliao/octo-page/issues"
+  },
+  "homepage": "https://github.com/rcliao/octo-page",
+  "dependencies": {
+    "del": "^1.2.0",
+    "octo-style": "^1.0.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-sass": "^2.0.4"
+  }
+}
